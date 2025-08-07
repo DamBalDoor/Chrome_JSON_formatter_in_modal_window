@@ -1,10 +1,10 @@
 # JSON formatter in modal
 
 Данное расширение позволит форматировать JSON в браузере, в модальном окне (не переходя на другую страницу)
+![img.png](materials/img_4.png)
 
-![img.png](materials/img.png)
+![img_1.png](materials/img_5.png)
 
-![img_1.png](materials/img_1.png)
 
 <hr/>
 Данное расширение не моё. Оно было взято с сайта: 'https://json-formatter-in-modal.en.softonic.com/chrome/extension и модифицированно.
