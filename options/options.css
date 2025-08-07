@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+}
+i,
+b,
+em,
+u {
+  font-style: normal;
+  font-weight: normal;
+}
+
+ul,
+li,
+p,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+.content {
+  font-size: 14px;
+  overflow: hidden;
+  padding: 20px 20px;
+  width: 600px;
+}
+
+.inputs li {
+  margin-bottom: 10px;
+}
+.inputs li label {
+  margin-right: 5px;
+  font-weight: 600;
+  color: #666;
+  width: 110px;
+  display: inline-block;
+  text-align: right;
+}
+.inputs li span {
+  color: #999;
+}
+header {
+  padding-left: 20px;
+}
+input {
+  padding: 5px;
+  font-size: 14px;
+}
+.textInput {
+  width: 400px;
+}
+button {
+  background: #409eff;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 14px;
+  padding: 5px 10px;
+}
+
+.btn {
+  float: right;
+  position: relative;
+}
